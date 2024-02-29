@@ -1,0 +1,8 @@
+name = "pub-kosui-me"
+main = "src/index.ts"
+compatibility_date = "2024-02-22"
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "activitypub"
+database_id = "c95e5fdf-1276-42d0-a7a3-5df04ba76ae9"
